@@ -1,4 +1,4 @@
-# School District Analysi Analysis
+# School District Analysis
 **Performing Analysis on School Data Using Pandas**
 
   ## Overview of Project
